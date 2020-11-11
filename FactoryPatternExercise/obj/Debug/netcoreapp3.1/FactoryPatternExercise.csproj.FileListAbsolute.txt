@@ -1,0 +1,13 @@
+C:\Users\HolyK\Desktop\GitRepos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\netcoreapp3.1\FactoryPatternExercise.exe
+C:\Users\HolyK\Desktop\GitRepos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\netcoreapp3.1\FactoryPatternExercise.deps.json
+C:\Users\HolyK\Desktop\GitRepos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\netcoreapp3.1\FactoryPatternExercise.runtimeconfig.json
+C:\Users\HolyK\Desktop\GitRepos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\netcoreapp3.1\FactoryPatternExercise.runtimeconfig.dev.json
+C:\Users\HolyK\Desktop\GitRepos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\netcoreapp3.1\FactoryPatternExercise.dll
+C:\Users\HolyK\Desktop\GitRepos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\netcoreapp3.1\FactoryPatternExercise.pdb
+C:\Users\HolyK\Desktop\GitRepos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\netcoreapp3.1\FactoryPatternExercise.csprojAssemblyReference.cache
+C:\Users\HolyK\Desktop\GitRepos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\netcoreapp3.1\FactoryPatternExercise.AssemblyInfoInputs.cache
+C:\Users\HolyK\Desktop\GitRepos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\netcoreapp3.1\FactoryPatternExercise.AssemblyInfo.cs
+C:\Users\HolyK\Desktop\GitRepos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\netcoreapp3.1\FactoryPatternExercise.csproj.CoreCompileInputs.cache
+C:\Users\HolyK\Desktop\GitRepos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\netcoreapp3.1\FactoryPatternExercise.dll
+C:\Users\HolyK\Desktop\GitRepos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\netcoreapp3.1\FactoryPatternExercise.pdb
+C:\Users\HolyK\Desktop\GitRepos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\netcoreapp3.1\FactoryPatternExercise.genruntimeconfig.cache
